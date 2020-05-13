@@ -1,6 +1,6 @@
 title: Interesting Patents
 description: > # this means to ignore newlines until "baseurl:"
-This is a website, where I gather interesting and funny patent applications or patents.
+  This is a website, where I gather interesting and funny patent applications or patents.
 permalink: ':title/'
 baseurl: "/patents" # the subpath of your site, e.g. /blog
 url: "http://patents.vadaru.com" # the base hostname & protocol for your site, e.g. http://example.com
